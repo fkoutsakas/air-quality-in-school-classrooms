@@ -48,11 +48,40 @@
 
 ## Προσδοκώμενα παραδοτέα από το πρόγραμμα 
 1. έξυπνο σύστημα παρακολούθησης/βελτίωσης ποιότητας αέρα/εξαερισμού αιθουσών σχολικών κτιρίων αποτελούμενο από
-   a. σύστημα μετρήσεων τιμών ποιότητας εσωτερικού αέρα που θα έχει τη δυνατότητα μέτρησης των τιμών VOC (Volatile Organic Compounds)
-   b. σύστημα απαγωγής φρέσκου εξωτερικού αέρα 
+   - σύστημα μετρήσεων τιμών ποιότητας εσωτερικού αέρα που θα έχει τη δυνατότητα μέτρησης των τιμών VOC (Volatile Organic Compounds)
+   - σύστημα απαγωγής φρέσκου εξωτερικού αέρα 
 2. διαδικτυακή πλατφόρμα ανοιχτής πρόσβασης για την παρουσίαση των καταγεγραμμένων τιμών ποιότητας αέρα σε πραγματικό χρόνο μέσα και έξω από την αίθουσα και παρακολούθηση του επιπέδου ασφαλείας θορύβου στην αίθουσα.
 3. ανοιχτό/επεκτάσιμο διδακτικό σενάριο υλοποίησης της δράσης «Βελτιώνοντας την ποιότητα αέρα στις σχολικές τάξεις» με έμφαση στη δυνατότητα αξιοποίησης του και από άλλα σχολεία που θα ενδιαφερθούν να υλοποιήσουν παρόμοιες λύσεις
 4. mini-blog για την παρουσίαση και διάχυση του έργου στο οποίο θα αναρτάται η πορεία της εργασίας καθώς και αποθετήριο στο GitHub
 5. ενημερωτικά έντυπα, φυλλάδια και αφίσες για την διάδοση των αποτελεσμάτων του προγράμματος 
 6. ενημερωτικές εκδηλώσεις παρουσίασης και διάχυσης του προγράμματος
+
+## Λίστα Προτεινόμενου Εξοπλισμού
+a/a	Είδος	Κόστος/τεμ(€)	Τεμ.	Συν. Κόστος (€)
+1.	Εξαεριστήρας Τζαμιού (σε ειδική τιμή για το έργο)	210	1	210
+2.	raspberry pi 4                                      64	3	192
+3.	micro SD Card with NOOBs 32 GB                      11	3	 33 
+4.	raspberry pi τροφοδοτικό                            10	3	 30
+5.	adaptors hdmi σε dvi                                 6	3   18
+6.	gpio extension boards                                4	2	  8
+7.	gpio 40pin ribbon cables                             3	2	  6
+8.	breadboard                                           3	2	  6
+9.	Sense HAT Pi                                        43	1	 43
+10.	MG811 Gas Sensor (CO2) 53	1	53
+11. ad/da converter (8591) 2	2	4
+12.	Sound Sensor (analog) 4	1	4
+13.	relay module 7	1	7
+	Εκτιμώμενο κόστος	-	-	614€
+
+Πηγές
+Σχετικές με την ποιότητα αέρα σε εσωτερικούς χώρους
+http://www.aerolab.mech.ntua.gr/Lessons/PT/Lectures/lecture5.pdf
+https://www.eea.europa.eu/el/simata-eop-2010/simata-2013/arthra/poiotita-aera-esoterikon-choron 
+
+Σχετικά με συστήματα μέτρησης ποιότητας αέρα και συστήματα έξυπνου σπιτιού
+https://nicovibert.com/2020/03/16/how-to-monitor-air-quality-with-a-raspberry-pi/
+http://www.co2meters.com/Documentation/AppNotes/AN127-COZIR-sensor-raspberry-pi-uart.pdf 
+https://ngoldbaum.github.io/posts/co2-monitor/
+https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/#hardwarerequired
+https://hacks.mozilla.org/2018/02/how-to-build-your-own-private-smart-home-with-a-raspberry-pi-and-mozillas-things-gateway/
 
