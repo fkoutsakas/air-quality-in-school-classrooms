@@ -64,15 +64,17 @@
 |3.|	micro SD Card with NOOBs 32 GB	|11|3|33| 
 |4.|	raspberry pi τροφοδοτικό 	|10|3|30|
 |5.|	adaptors hdmi σε dvi		|6|3 |18|
-|6.|	gpio extension boards                                4	2	  8
-|7.|	gpio 40pin ribbon cables                             3	2	  6
-|8.|	breadboard                                           3	2	  6
-|9.|	Sense HAT Pi                                        43	1	 43
-|10.|	MG811 Gas Sensor (CO2) 53	1	53
-|11.|ad/da converter (8591) 2	2	4
-|12.|	Sound Sensor (analog) 4	1	4
-|13.|	relay module 7	1	7
-	Εκτιμώμενο κόστος	-	-	614€
+|6.|	gpio extension boards		|4||2|8|
+|7.|	gpio 40pin ribbon cables	|3|2|6|
+|8.|	breadboard			|3|2|6|
+|9.|	Sense HAT Pi			|43|1|43|
+|10.|	MG811 Gas Sensor (CO2) 		|53|1|53|
+|11.|ad/da converter (8591) 		|2|2|4|
+|12.|	Sound Sensor (analog) 		|4|1|4|
+|13.|	relay module 			|7|1|7|
+|---------------------------------------|-|-|-|
+|Εκτιμώμενο κόστος|614€|
+
 
 Πηγές
 Σχετικές με την ποιότητα αέρα σε εσωτερικούς χώρους
