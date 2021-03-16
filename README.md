@@ -77,13 +77,13 @@
 
 ## Πηγές
 ### Σχετικές με την ποιότητα αέρα σε εσωτερικούς χώρους
-http://www.aerolab.mech.ntua.gr/Lessons/PT/Lectures/lecture5.pdf
-https://www.eea.europa.eu/el/simata-eop-2010/simata-2013/arthra/poiotita-aera-esoterikon-choron 
+- http://www.aerolab.mech.ntua.gr/Lessons/PT/Lectures/lecture5.pdf
+- https://www.eea.europa.eu/el/simata-eop-2010/simata-2013/arthra/poiotita-aera-esoterikon-choron 
 
 ### Σχετικά με συστήματα μέτρησης ποιότητας αέρα και συστήματα έξυπνου σπιτιού
-https://nicovibert.com/2020/03/16/how-to-monitor-air-quality-with-a-raspberry-pi/
-http://www.co2meters.com/Documentation/AppNotes/AN127-COZIR-sensor-raspberry-pi-uart.pdf 
-https://ngoldbaum.github.io/posts/co2-monitor/
-https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/#hardwarerequired
-https://hacks.mozilla.org/2018/02/how-to-build-your-own-private-smart-home-with-a-raspberry-pi-and-mozillas-things-gateway/
+- https://nicovibert.com/2020/03/16/how-to-monitor-air-quality-with-a-raspberry-pi/
+- http://www.co2meters.com/Documentation/AppNotes/AN127-COZIR-sensor-raspberry-pi-uart.pdf 
+- https://ngoldbaum.github.io/posts/co2-monitor/
+- https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/#hardwarerequired
+- https://hacks.mozilla.org/2018/02/how-to-build-your-own-private-smart-home-with-a-raspberry-pi-and-mozillas-things-gateway/
 
