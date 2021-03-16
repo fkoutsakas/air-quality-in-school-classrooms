@@ -72,16 +72,15 @@
 |11.|ad/da converter (8591) 		|2|2|4|
 |12.|	Sound Sensor (analog) 		|4|1|4|
 |13.|	relay module 			|7|1|7|
-|---------------------------------------|-|-|-|
-|Εκτιμώμενο κόστος|614€|
+||Εκτιμώμενο κόστος||614€|
 
 
-Πηγές
-Σχετικές με την ποιότητα αέρα σε εσωτερικούς χώρους
+## Πηγές
+### Σχετικές με την ποιότητα αέρα σε εσωτερικούς χώρους
 http://www.aerolab.mech.ntua.gr/Lessons/PT/Lectures/lecture5.pdf
 https://www.eea.europa.eu/el/simata-eop-2010/simata-2013/arthra/poiotita-aera-esoterikon-choron 
 
-Σχετικά με συστήματα μέτρησης ποιότητας αέρα και συστήματα έξυπνου σπιτιού
+### Σχετικά με συστήματα μέτρησης ποιότητας αέρα και συστήματα έξυπνου σπιτιού
 https://nicovibert.com/2020/03/16/how-to-monitor-air-quality-with-a-raspberry-pi/
 http://www.co2meters.com/Documentation/AppNotes/AN127-COZIR-sensor-raspberry-pi-uart.pdf 
 https://ngoldbaum.github.io/posts/co2-monitor/
