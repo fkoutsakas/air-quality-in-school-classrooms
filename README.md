@@ -85,17 +85,24 @@
 | a/a | Είδος |	Κόστος/τεμ(€)| Τεμ. | Συν. Κόστος (€) |
 |:--|--:|--:|--:|--:|
 |1.|Εξαεριστήρας Τζαμιού (σε ειδική τιμή για το έργο)|210|1|210|
-|2.|	raspberry pi 4			|89|3|267|
-|3.|	raspberry pi zero WH	|19|1|19|
-|4.|	micro SD Card with NOOBs 32 GB	|10|3|30| 
-|5.|	raspberry pi τροφοδοτικό 	|7|3|21|
-|6.|	Cable HDMI to micro HDMI 1.5m |5|3 |15|
-|7.|	Pimorono Enviro+ Air QUality Sensor  |45|1|45|
-|8.|	Particulate Matter Sensor PMS5003 |24|1|24|
-|9.|	Sense HAT Pi			|43|1|43|
-|10.|	Sound Sensor (analog) 		|4|1|4|
-|11.|	relay module 			|7|1|7|
-||Εκτιμώμενο κόστος|||614€|
+|2.|	Raspberry pi 4			|89|3|267|
+|3.|	Raspberry pi zero WH	|19|1|19|
+|4.|	Micro SD Card with NOOBs 32 GB	|10|4|40| 
+|5.|	Τροφοδοτικό για Raspberry pi 4 	|7|3|21|
+|6.|	Τροφοδορικό για Raspberry pi zero WH |5|1 |* |
+|7.|	Cable HDMI to micro HDMI 1.5m for RP 4 |5|3 |15|
+|8.|	Cable HDMI to mini HDMI 1.5m for RP Zero |5|1 |* |
+|9.|	Pimorono Enviro+ Air QUality Sensor  |45|1|45|
+|10.|	Particulate Matter Sensor PMS5003 |24|1|24|
+|11.|	Sense HAT Pi			|43|1|43|
+|12.|	SparkFun sound detector 		|18|1|* |
+|13.|	Waveshare Raspberry Pi 8-ch Relay Expansion Board 			|28|1|* |
+|14.|	Οθόνες με είσδο HDMI 			|110|2|* |
+|15.|	Πληκτρολόγιο, ποντίκι 			|15|2|* |
+
+||ΤΕλικό κόστος|||684€|
+
+* Ο εξοπλισμός υπήρχε ήδη στο σχολείο
 
 ## Πηγές
 ### Σχετικές με την ποιότητα αέρα σε εσωτερικούς χώρους
