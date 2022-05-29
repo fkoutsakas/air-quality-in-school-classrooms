@@ -60,7 +60,7 @@
 6. Το παρόν αποθετήριο στο GitHub, διαθέμιμο [ΕΔΩ](https://github.com/fkoutsakas/air-quality-in-school-classrooms)
 7. Ενημερωτικές εκδηλώσεις παρουσίασης και διάχυσης του προγράμματος
    - αφιέρωμα στο περιοδικό Κ της Κυριακάτικης Καθημερινής με το άρθρο [Τεχνολογία: Πέντε εφευρέσεις που γεννήθηκαν σε ελληνικά σχολεία](https://www.kathimerini.gr/k/k-magazine/561721840/technologia-pente-efeyreseis-poy-gennithikan-se-ellinika-scholeia/)
-   - παρουσίαση στο [14ο μαθητικό συνέδριο πληροφορικής](https://pspth.edu.gr/symmetochi-tou-pspth-sto-14o-diadiktyako-mathitiko-synedrio-pliroforikis-kentrikis-makedonias-me-tesseris-isigisis/)
+   - παρουσίαση στο [14ο μαθητικό συνέδριο πληροφορικής](https://pspth.edu.gr/symmetochi-tou-pspth-sto-14o-diadiktyako-mathitiko-synedrio-pliroforikis-kentrikis-makedonias-me-tesseris-isigisis/). Η εισήγηση είναι διαθέσιμη [ΕΔΩ](https://docs.google.com/document/d/1HNTUSe7awn9k5Y0e3M-XxbNSQObWcp6J/edit) και η παρουσίαση [ΕΔΩ](https://docs.google.com/presentation/d/1VXBP-70kqPYaerUw5C9ajLekUlNbZd1x695bsuL_r6w/edit#slide=id.g113bdc0fa73_0_61)
    - παρουσίαση στην εκδήλωση του Ιδρύματος Ωνάση [των διακριθέντων έργων του 3ου διαγωνισμού ανοιχτών τεχνολογιών](https://pspth.edu.gr/diakrisi-tou-pspth-ston-3o-panellinio-diagonismo-anichton-technologion-stin-ekpedefsi-2/)  
 
 ## Λίστα Προτεινόμενου Εξοπλισμού (αρχική)
