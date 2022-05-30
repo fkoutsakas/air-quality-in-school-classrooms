@@ -1,4 +1,8 @@
 # «Άλλος αέρας» στις σχολικές αίθουσες με ανοιχτές τεχνολογίες
+Το έργο "Άλλος αέρας" με ανοιχτές τεχνολογίες
+- διακρίθηκε στην κατηγορία Γυμνασίων, περισσότερα [ΕΔΩ](https://openedtech.ellak.gr/2021/11/10/apotelesmata-axiologisis-ergon-tou-3ou-panelliniou-diagonismou-anichton-technologion/)
+- παρουσίαστηκε στην εκδήλωση των διακριθέντων έργων του διαγωνσιμού που διοργάνωσε το ίδρυμα Ωνάση, περισσότερα [ΕΔΩ](https://www.onassis.org/el/whats-on/online-presentation-of-the-3rd-panhellenic-open-technologies-in-education-competition) και [ΕΔΩ](https://openedtech.ellak.gr/2022/02/24/me-megali-epitichia-oloklirothike-i-parousiasi-ton-ergon-tou-3ou-panelliniou-diagonismou-anichton-technologion-stin-ekpedefsi/)
+- παρουσιάστηκε στο Κ της εφημερίδας Καθημερινής, στο άρθρο "Τεχνολογία: Πέντε εφευρέσεις που γεννήθηκαν σε ελληνικά σχολεία" περισσότερα [ΕΔΩ](https://www.kathimerini.gr/k/k-magazine/561721840/technologia-pente-efeyreseis-poy-gennithikan-se-ellinika-scholeia/)
 
 ## Εισαγωγή
 
