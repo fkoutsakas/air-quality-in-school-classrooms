@@ -1,5 +1,5 @@
 # Clean Air in School Classrooms utilizing Open/Free Technologies | «Άλλος αέρας» στις σχολικές αίθουσες με ανοιχτές τεχνολογίες
-##Διακρίσεις / παρουσιάσεις / βραβεύσεις 
+## Διακρίσεις / παρουσιάσεις / βραβεύσεις 
 Το εκπαιδευτικό πρόγραμμα "Άλλος αέρας" με ανοιχτές τεχνολογίες
 - διακρίθηκε στο πλαίσιου του [3ου Πανελλήνιου Διαγωνσιμού Ανοιχτών Τεχνολογιών](https://openedtech.ellak.gr/openedtech2021/) στην κατηγορία Γυμνασίων, περισσότερα [ΕΔΩ](https://openedtech.ellak.gr/2021/11/10/apotelesmata-axiologisis-ergon-tou-3ou-panelliniou-diagonismou-anichton-technologion/)
 - παρουσίαστηκε στην εκδήλωση των διακριθέντων έργων του διαγωνσιμού που διοργάνωσε το ίδρυμα Ωνάση, περισσότερα [ΕΔΩ](https://www.onassis.org/el/whats-on/online-presentation-of-the-3rd-panhellenic-open-technologies-in-education-competition) και [ΕΔΩ](https://openedtech.ellak.gr/2022/02/24/me-megali-epitichia-oloklirothike-i-parousiasi-ton-ergon-tou-3ou-panelliniou-diagonismou-anichton-technologion-stin-ekpedefsi/)
